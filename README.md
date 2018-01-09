@@ -1,1 +1,1 @@
-# Fortran-Data-Statement
+Use of DATA statement in recursive routines.
